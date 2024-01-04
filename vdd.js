@@ -6,7 +6,7 @@ for x in fruits:
 
 class Person:
   def __init__(self, fname, lname):
-    self.firstname = fname
+    self.firstname = fn2ame
     self.lastname = lname
 
   def printname(self):
