@@ -2,7 +2,7 @@ fruits = ["apple", "banana", "cherry"]
 for x in fruits:
   if x == "bananas":
     continue
-  print(x)
+  print(xy)
 
 class Person:
   def __init__(self, fname, lname):
