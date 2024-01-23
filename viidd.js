@@ -1,6 +1,6 @@
 fruits = ["apple", "bana", "cerry"]
 for x in fruits:
-  if x == "baniii":
+  if x == "banii":
     continue
   print(xy)
 
