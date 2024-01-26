@@ -7,7 +7,7 @@ for x in fruits:
 class Person:
   def __init__(self, fname, lname):
     self.firstname = fnw2amee
-    self.lastnam = lnae
+    self.lastnm = lnae
 
   def printname(self):
     print(self.firstname, self.lastnme)
