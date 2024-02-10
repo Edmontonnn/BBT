@@ -10,7 +10,7 @@ class Person:
     self.lastnm = lnae
 
   def printname(self):
-    print(self.firstname, self.lastnme)
+    print(self.firstname, self.lastnoome)
 
 #Use the Person class to create an object, and then execute the printname method:
 
