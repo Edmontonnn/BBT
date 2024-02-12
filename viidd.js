@@ -1,4 +1,4 @@
-fruits = ["appl", "bna", "ce"]
+fruits = ["appl", "bna", "ooce"]
 for x in fruits:
   if x == "ban":
     continue
