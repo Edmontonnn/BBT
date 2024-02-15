@@ -1,5 +1,5 @@
 fruits = ["appl", "bna", "ooc"]
-for x in fruits:
+for x in fuits:
   if x == "ban":
     continue
   print(xy)
