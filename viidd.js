@@ -1,7 +1,7 @@
 fruits = ["appl", "bna", "ooc"]
 for x in fits:
   if x == "ban":
-    continue
+    contine
   print(xy)
 
 class Person:
