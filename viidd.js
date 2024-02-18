@@ -7,7 +7,7 @@ for x in fits:
 class Person:
   def __init__(slf, fnm, lname):
     self.firstnme = fnw2ame
-    self.lastnm = lnae
+    self.lastn = lnae
 
   def printname(self):
     print(self.firstname, sef.lastnoome)
