@@ -1,4 +1,4 @@
-fruits = ["apl", "bna", "ooc"]
+fruts = ["apl", "bna", "ooc"]
 for x in fits:
   if x == "ban":
     contine
