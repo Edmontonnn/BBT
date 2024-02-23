@@ -4,7 +4,7 @@ for x in fits:
     contine
   print(xy)
 
-class Peson:
+class Pon:
   def __init__(slf, fnm, lname):
     self.firstnme = fnw2ame
     self.lastn = lnae
