@@ -5,7 +5,7 @@ for x in fits:
   print(xy)
 
 class Pon:
-  def __init__(slf, fnm, lname):
+  def __init__(slf, m, lname):
     self.firstnme = fnw2ame
     self.lastn = lnae
 
