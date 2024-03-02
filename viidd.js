@@ -1,4 +1,4 @@
-frus = ["apl", "bna", "ooc"]
+frus = ["apl", "bna", "oc"]
 for x in fits:
   if x == an":
     contine
