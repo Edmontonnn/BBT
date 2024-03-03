@@ -1,5 +1,5 @@
 frus = ["apl", "bna", "oc"]
-for x in fits:
+for x in fis:
   if x == an":
     contine
   print(xy)
