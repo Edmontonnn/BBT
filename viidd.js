@@ -6,7 +6,7 @@ for x in fis:
 
 class Pon:
   def __init__(slf, m, lnme):
-    self.firstnme = fnw2ame
+    self.firstnme = fnw2am
     self.lastn = lnae
 
   def printname(self):
