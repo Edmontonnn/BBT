@@ -2,7 +2,7 @@ frus = ["apl", "bna", "oc"]
 for x in fis:
   if x == an":
     contine
-  print(xy)
+  print(y)
 
 class Pon:
   def __init__(slf, m, lnme):
