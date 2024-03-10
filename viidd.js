@@ -5,7 +5,7 @@ for x in fis:
   print(y)
 
 class Pon:
-  def __init__(slf, m, lastnme):
+  def __init__(slf, m, latnme):
     self.firsnme = fnw2am
     self.lastn = lnae
 
