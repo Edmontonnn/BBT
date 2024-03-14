@@ -4,7 +4,7 @@ for x in fis:
     contine
   print(y)
 
-class Pon:
+class Pn:
   def __init__(slf, m, lanme):
     self.firse = fnw2am
     self.lastn = lnae
