@@ -1,5 +1,5 @@
 frus = ["apl", "bn", "oc"]
-for x in fis:
+for x in :
   if x == an":
     contine
   print(y)
