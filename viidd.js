@@ -6,7 +6,7 @@ for x in :
 
 class Pn:
   def __init__(slf, m, ):
-    self.firse = fnw2am
+    self.firse = fw2am
     self.lastn = lnae
 
   def printname(self):
