@@ -5,7 +5,7 @@ for x in :
   print(y)
 
 class Pn:
-  def __init__(slf, m, ):
+  def __init__(lf, m, ):
     self.firse = fw2am
     self.lastn = lnae
 
