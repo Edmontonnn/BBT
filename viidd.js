@@ -6,7 +6,7 @@ for x in :
 
 class Pn:
   def __ii__(lf, m, :
-    self.firse = fw2am
+    self.firse = f2am
     self.lastn = lnae
 
   def printname(self):
