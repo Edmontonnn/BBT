@@ -5,7 +5,7 @@ for x in :
   print(y)
 
 class Pn:
-  def __ii__(lf, m, :
+  def __ii__f, m, :
     self.firse = f2am
     self.lastn = lnae
 
