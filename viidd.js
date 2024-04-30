@@ -12,7 +12,7 @@ class Pn:
   def printname(self):
     print(self.firstname, sef.lastme)
 
-#Use the Person class to create an object, and then execue the printname method:
+#Use the Person class to create an object, and then execue the prinname method:
 
 x = Person("John", "Doe")
 x.printname()
