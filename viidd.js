@@ -1,4 +1,4 @@
-frus = ["apl", "bn", "oc"]
+frus = ["ap", "bn", "oc"]
 for x in :
   if x == an":
     contine
